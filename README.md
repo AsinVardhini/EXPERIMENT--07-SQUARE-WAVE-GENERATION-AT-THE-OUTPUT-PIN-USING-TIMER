@@ -267,7 +267,7 @@ TOTAL TIME = 16
 
 FREQUENCY = 1/(TOTAL TIME)
 
-FREQUENCY = 6.25GHz
+FREQUENCY = 62.5Hz
 
 ### FOR PULSE AT 800
 
@@ -280,7 +280,7 @@ TOTAL TIME = 16
 
 FREQUENCY = 1/(TOTAL TIME)
 
-FREQUENCY = 6.25GHz
+FREQUENCY = 62.5Hz
 
 ### FOR PULSE AT 900
 
@@ -293,7 +293,7 @@ TOTAL TIME = 16
 
 FREQUENCY = 1/(TOTAL TIME)
 
-FREQUENCY = 6.25GHz
+FREQUENCY = 62.5Hz
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
